@@ -1,3 +1,5 @@
+package Application;
+
 public class Figur {
     private double x;
     private double y;

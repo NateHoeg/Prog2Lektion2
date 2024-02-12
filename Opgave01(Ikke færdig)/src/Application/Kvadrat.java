@@ -1,3 +1,5 @@
+package Application;
+
 public class Kvadrat extends Figur{
     private double sidelængde;
 

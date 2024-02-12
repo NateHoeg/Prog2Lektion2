@@ -1,3 +1,5 @@
+package Application;
+
 public class Ellipse extends Cirkel{
     private double radius2;
 

@@ -1,3 +1,5 @@
+package Application;
+
 public class Rektangel extends Kvadrat {
     private double sidelængde2;
 

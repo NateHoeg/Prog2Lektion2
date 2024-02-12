@@ -1,3 +1,5 @@
+package Application;
+
 public class Cirkel extends Figur{
     private double radius;
     public Cirkel(int x, int y, int radius) {
